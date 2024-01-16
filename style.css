@@ -74,17 +74,20 @@ nav{
     right:50px;
 }
 .two{
-    top:150px;
+    padding-top: 80px;
+    top:100px;
     left: 350px;
     transform: rotate(-90deg);
 }
 .three{
+    padding-top: 20px;
     bottom: 450px;
     left:50px;
     transform:rotate(-180deg);
 }
 .four{
-    bottom:150px;
+    padding-top: 75px;
+    bottom:100px;
     right:350px;
     transform:rotate(-270deg);
 }
